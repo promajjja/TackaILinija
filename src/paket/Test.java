@@ -15,4 +15,6 @@ public class Test {
 		System.out.println("X koordinata tacke je: " + point1.getX());
 		System.out.println("Y koordinata tacke je: " + point1.getY()); 
 		System.out.println("Da li je selektovana " + point1.isSelected());
+
+	}
 }
