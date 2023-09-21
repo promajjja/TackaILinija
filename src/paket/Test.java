@@ -15,5 +15,11 @@ public class Test {
 		System.out.println("Y koordinata tacke je: " + point1.getY());
 		System.out.println("Da li je selektovana " + point1.isSelected());
 
+		double distanceResult = point1.distance(15, 7);
+		System.out.println(distanceResult);
+		
+		System.out.println(point1);
+		
+		
 	}
 }
